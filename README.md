@@ -4,7 +4,7 @@
 Full-Stack DeveLoper ​🧑🏾‍💻​
 --------------------
 
-I am passionate about code, I've always been attracted to understand the technical aspects behind each technology, but it was not until I finished my degree in Marketing and started studying computer science, I understood what field is the development of Software / web apps.
+I am passionate about code, I have always been attracted to understand the technical aspects behind each technology, but it was not until I finished my Marketing degree and started studying computer science, I understood that the technological area that most attracts me is Software development. /Web applications. .
 
 * 🌍  I'm based in Madrid
 * 🖥️  See my portfolio at [my personal website](http://ricardosolance.dev)
