@@ -11,8 +11,8 @@ I am passionate about code, I have always been attracted to understand the techn
 * ✉️  You can contact me at [ricardontutumu@gmail.com](mailto:ricardontutumu@gmail.com)
 * 🚀  I'm currently working on [Personal Projects](http://saberypotar.com)
 * 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on Fintech Web Apps
-* ⚡  I´m like BadMan... sleep All day code 🧑🏿‍💻 All Night
+* 🤝  I'm open to collaborating on any interesting or innovative project
+* ⚡  My life is a loop 🧑🏿‍ wake up, 💻 eat while coding, code and sleep.
 
 ### Skills
 
