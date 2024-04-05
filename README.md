@@ -9,7 +9,7 @@ I am passionate about code, I´ve always been attracted to understand the techni
 * 🌍  I'm based in Madrid
 * 🖥️  See my portfolio at [my personal website](http://ricardosolance.dev)
 * ✉️  You can contact me at [ricardontutumu@gmail.com](mailto:ricardontutumu@gmail.com)
-* 🚀  I'm currently working on [Banco Santander](https://www.santanderdigitalservices.com/es/inicio)
+* 🚀  I'm currently working at [Banco Santander](https://www.santanderdigitalservices.com/es/inicio)
 * 🧠  I'm learning React Native || devOps
 * 🤝  I'm open to collaborating on any interesting or innovative project
 * ⚡  My life is a loop 🧑🏿‍ wake up, 💻 eat while coding, code and sleep.
